@@ -1,0 +1,253 @@
+body{
+	background: #000;
+}
+
+#hboGo {
+  display: block;
+  position: relative;
+  background-image: url('images/hbo-go.png');
+  background-color: #000;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#hboShows {
+  display: block;
+  position: relative;
+  background-image: url('images/hbo-shows.png');
+  background-repeat: no-repeat;
+}
+
+#hboMovies {
+  display: block;
+  position: relative;
+  background-image: url('images/hbo-movies.png');
+  background-repeat: repeat;
+}
+
+#hboSports {
+  display: block;
+  position: relative;
+  background-image: url('images/hbo-sports.png');
+  background-repeat: no-repeat;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#hboComedy {
+  display: block;
+  position: relative;
+  background-image: url('images/hbo-comedy.png');
+  background-repeat: no-repeat;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#hboDocumentary {
+  display: block;
+  position: relative;
+  background-image: url('images/hbo-documentary.png');
+  background-repeat: no-repeat;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#hboGoT {
+  display: block;
+  position: relative;
+  background-image: url('http://i.space.com/images/i/000/027/607/i02/game-of-thrones-cast-faces.jpg?1364573840');
+  background-repeat: no-repeat;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#hboTrueDetective {
+  display: block;
+  position: relative;
+  background-image: url('http://unspoiledpodcasts.com/wp-content/uploads/2015/03/true-detective-header.jpg');
+  background-repeat: no-repeat;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#hboTrueBlood {
+  display: block;
+  position: relative;
+  background-image: url('http://imc.ulximg.com/image/src/cover/1379851386_d8fa0ad6d50aa808f2ce6f66f10773eb.jpg/699dc8e2812f2b18c451e6aa4f68d910/1379851386_25c74ba541e551036b39396145e18d6b.jpg');
+  background-repeat: no-repeat;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#hboBandOfBrothers {
+  display: block;
+  position: relative;
+  background-image: url('https://p.gr-assets.com/540x540/fit/hostedimages/1383620126/6613674.jpg');
+  background-repeat: no-repeat;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#hboBoardwalkEmpire {
+  display: block;
+  position: relative;
+  background-image: url('http://theredlist.com/media/database/films/tv-series/history/2010/boardwalk-empire/007-boardwalk-empire-theredlist.jpg');
+  background-repeat: no-repeat;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#hboCurbYourEnthusiam {
+  display: block;
+  position: relative;
+  background-image: url('http://2.bp.blogspot.com/-mR-Ce8pf-ys/VXFUO3rRcuI/AAAAAAABRAA/aZa3Zcd_Eug/s400/Sam-Gilbey-Larry-David-Print-2015.png');
+  background-repeat: no-repeat;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#hboEntourage {
+  display: block;
+  position: relative;
+  background-image: url('http://static.tvfanatic.com/images/gallery/the-entourage-gang.jpg');
+  background-repeat: no-repeat;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+#hboTheWire {
+  display: block;
+  position: relative;
+  background-image: url('http://imd.ulximg.com/image/src/cover/1333475033_9236e0904757f9049ab89002cd16470a.jpg/5f8b5c07ce092010083e1315166af39d/1333475033_the-wire.jpg');
+  background-repeat: no-repeat;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.container {
+	width: 95%;
+	height: 500px;
+}
+
+.container p {
+	display: none;
+}
+
+.container span {
+	position: absolute;
+	width: 90%;
+	padding: 15px;
+	background: rgba(0,0,0,0.5);
+	font-family: 'Trebuchet MS';
+	line-height: 100%;
+	color: #fff;
+	z-index: 99;
+}
+
+.container .purchase-btn {
+	position: absolute;
+	bottom: 5%;
+	right: 1%;
+	padding: 10px;
+	font-family: 'Arial'
+	font-size: 24px;
+	font-weight: bold;
+	background: -webkit-linear-gradient(#5CADFF, #4079B2);
+  	background: -o-linear-gradient(#5CADFF, #4079B2);
+  	background: -moz-linear-gradient(#5CADFF, #4079B2);
+  	background: linear-gradient(#5CADFF, #4079B2);
+	border-radius: 10px;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	z-index: 99;
+}
+
+.wrapper {
+	background: rgba(200, 54, 54, 0.5);
+	z-index: 99;
+}
+
+.grid {
+	position: relative;
+	float: left;
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+.grid a {
+	position: absolute;
+	bottom: 40%;
+	left: 2%;
+	font-family: 'Trebuchet MS';
+	text-shadow: 2px 2px #660000;
+	text-decoration: none;
+	font-size: 150%;
+	color: #fff;
+}
+
+.row-sm {
+	height: 75px;
+}
+
+.row-md {
+	height: 100px;
+}
+
+.row-lg {
+	height: 200px;
+}
+
+.col-lg {
+	width: 96%;
+}
+
+.col-md {
+	width: 48%;
+}
+
+.col-sm {
+	width: 32%;
+}
+
+.col-xsm {
+	width: 16%;
+}
+
+@media only screen and (max-width: 799px) {
+	.grid { width: 100%; }
+}

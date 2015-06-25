@@ -1,0 +1,86 @@
+<html>
+	<head>
+		<title>Design Sample: HBO</title>
+		<link rel="stylesheet" type="text/css" href="./Stylesheet.css">		
+		<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script type="text/javascript" src="./js/javascript.js"></script>
+	</head>
+	<header>
+	</header>
+	<body>
+		<div class="container">
+			<div id="hboGo" title="HBO GO" class="grid col-lg row-lg">
+				<p class="content">Take HBO anywhere with HBO GO. Get the complete package featuring all HBO content - HBO Series, Movies, Sports, Comedy, Documentary. Catch your favorite shows streaming directly to your platform.</p>
+				<a class="title" href="javascript:void(0);">HBO GO</a>
+				<input class="purchase-btn" type="submit" value="Purchase Now"></input>
+			</div>
+			<div id="hboShows" title="HBO SHOWS" class="grid col-md row-md">
+				<p class="content">Really love your HBO Shows? Purchase this package to just receive your only HBO's Original Series.</p>
+				<a class="title" href="javascript:void(0);">HBO Shows</a>
+				<input class="purchase-btn" type="submit" value="Purchase Now"></input>
+			</div>
+			<div id="hboMovies" title="HBO MOVIES" class="grid col-md row-md">
+				<p class="content">HBO's collection of movies are selected for the best audience. Stream HBO movies that include: Oscar nominated movies, new releases, great classics, and top blockbusters.</p>
+				<a class="title" href="javascript:void(0);">HBO Movies</a>
+				<input class="purchase-btn" type="submit" value="Purchase Now"></input>
+			</div>
+			<div id="hboSports" title="HBO SPORTS" class="grid col-sm row-sm">
+				<p class="content">Stream HBO Sports on-demand. Get the most exclusive access to your favorite sports.</p>
+				<a class="title" href="javascript:void(0);">HBO Sports</a>
+				<input class="purchase-btn" type="submit" value="Purchase Now"></input>
+			</div>
+			<div id="hboComedy" title="HBO COMEDY" class="grid col-sm row-sm">
+				<p class="content">Find the greatest comedians featured on HBO, including - stand-up, shorts, and more!</p>
+				<a class="title" href="javascript:void(0);">HBO Comedy</a>
+				<input class="purchase-btn" type="submit" value="Purchase Now"></input>
+			</div>
+			<div id="hboDocumentary" title="HBO DOCUMENTARY" class="grid col-sm row-sm">
+				<p class="content">Discover what the world has to offer. Hear the true stories that happen everyday and the voices of the people who tell them.</p>
+				<a class="title" href="javascript:void(0);">HBO Documentary</a>
+				<input class="purchase-btn" type="submit" value="Purchase Now"></input>
+			</div>
+			<div id="hboGoT" title="HBO ORIGINAL SERIES: GAME OF THRONES" class="grid col-md row-lg">
+				<p class="content">Exclusively stream the HBO Series: Game of Thrones.</p>
+				<a class="title" href="javascript:void(0);">Game of Thrones</a>
+				<input class="purchase-btn" type="submit" value="Purchase Now"></input>
+			</div>
+			<div id="hboTrueDetective" title="HBO ORIGINAL SERIES: TRUE DETECTIVE" class="grid col-md row-lg">
+				<p class="content">Exclusively stream the HBO Series: True Detective.</p>
+				<a class="title" href="javascript:void(0);">True Detective</a>
+				<input class="purchase-btn" type="submit" value="Purchase Now"></input>
+			</div>
+			<div id="hboTrueBlood" title="HBO ORIGINAL SERIES: TRUE BLOOD" class="grid col-xsm row-lg">
+				<p class="content">Exclusively stream the HBO Series: True Blood.</p>
+				<a class="title" href="javascript:void(0);">True Blood</a>
+				<input class="purchase-btn" type="submit" value="Purchase Now"></input>
+			</div>
+			<div id="hboBoardwalkEmpire" title="HBO ORIGINAL SERIES: BOARDWALK EMPIRE" class="grid col-xsm row-lg">
+				<p class="content">Exclusively stream the HBO Series: Boardwalk Empire.</p>
+				<a class="title" href="javascript:void(0);">Boardwalk Empire</a>
+				<input class="purchase-btn" type="submit" value="Purchase Now"></input>
+			</div>
+			<div id="hboTheWire" title="HBO ORIGINAL SERIES: THE WIRE" class="grid col-xsm row-lg">
+				<p class="content">Exclusively stream the HBO Series: The Wire.</p>
+				<a class="title" href="javascript:void(0);">The Wire</a>
+				<input class="purchase-btn" type="submit" value="Purchase Now"></input>
+			</div>
+			<div id="hboEntourage" title="HBO ORIGINAL SERIES: ENTOURAGE" class="grid col-xsm row-lg">
+				<p class="content">Exclusively stream the HBO Series: Entourage.</p>
+				<a class="title" href="javascript:void(0);">Entourage</a>
+				<input class="purchase-btn" type="submit" value="Purchase Now"></input>
+			</div>
+			<div id="hboCurbYourEnthusiam" title="HBO ORIGINAL SERIES: CURB YOUR ENTHUSIASM" class="grid col-xsm row-lg">
+				<p class="content">Exclusively stream the HBO Series: Curb Your Enthusiasm.</p>
+				<a class="title" href="javascript:void(0);">Curb Your Enthusiasm</a>
+				<input class="purchase-btn" type="submit" value="Purchase Now"></input>
+			</div>
+			<div id="hboBandOfBrothers" title="HBO ORIGINAL SERIES: BAND OF BROTHERS" class="grid col-xsm row-lg">
+				<p class="content">Exclusively stream the HBO Series: Band of Brothers.</p>
+				<a class="title" href="javascript:void(0);">Band of Brothers</a>
+				<input class="purchase-btn" type="submit" value="Purchase Now"></input>
+			</div>
+		</div>
+	</body>
+	<footer>
+	</footer>
+</html>
